@@ -1,6 +1,21 @@
-{
+[{
   "id": 1,
-  "first_name": "Minna",
-  "animal": "Australian sea lion",
-  "avatar": "https://robohash.org/dolorequiodit.jpg?size=50x50&set=set1"
-}
+  "first_name": "Aylmar",
+  "avatar": "https://robohash.org/occaecatiquiquaerat.jpg?size=50x50&set=set1"
+}, {
+  "id": 2,
+  "first_name": "Penelope",
+  "avatar": "https://robohash.org/ipsamsintautem.jpg?size=50x50&set=set1"
+}, {
+  "id": 3,
+  "first_name": "Alane",
+  "avatar": "https://robohash.org/quirepudiandaeexcepturi.jpg?size=50x50&set=set1"
+}, {
+  "id": 4,
+  "first_name": "Gallard",
+  "avatar": "https://robohash.org/ipsaautadipisci.jpg?size=50x50&set=set1"
+}, {
+  "id": 5,
+  "first_name": "Brigitta",
+  "avatar": "https://robohash.org/namexvoluptatem.jpg?size=50x50&set=set1"
+}]
