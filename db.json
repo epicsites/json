@@ -1,6 +1,6 @@
 
 {
-"data": [{
+{
   "id": 1,
   "firstName": "Aylmar",
   "avatar": "https://robohash.org/occaecatiquiquaerat.jpg?size=50x50&set=set1"
@@ -20,5 +20,5 @@
   "id": 5,
   "firstName": "Brigitta",
   "avatar": "https://robohash.org/namexvoluptatem.jpg?size=50x50&set=set1"
-}]
+}
 }
