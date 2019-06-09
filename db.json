@@ -37,5 +37,18 @@
         "owner_phone" : "+38012345678"
         }
       ]
+    },
+     {
+     "car_id" : 4,
+     "car_type" : "electric",
+     "car_model" : "Tesla",
+     "car_color" : "cyan",
+     "owners": [
+        {
+        "owner_id" : 4,
+        "owner_name" : "Vladimir",
+        "owner_phone" : "+38012345679"
+        }
+      ]
     }
 ]
